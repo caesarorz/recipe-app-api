@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Cesar Orozco Zamora
+LABEL key="Cesar Orozco Zamora" 
 
 ENV PYTHONUNBUFFERED 1
 
